@@ -7,11 +7,11 @@
     "gitbook": "3.2.3",
     "root": ".",
     "structure": {
-        "readme": "README.md"
+        "readme": "introduction.md"
     },
     "links": {
         "sidebar": {
-            "Home": "https://github.com/liyingkun1237/AIMSHelpBook.git"
+            "Home": "https://aims.ccxcredit.com/login"
         }
     },
     "plugins": [
@@ -64,7 +64,7 @@
             "showLevel": true
         },
         "disqus": {
-            "shortName": "gitbookuse"
+            "shortName": "AIMSHelpBook"
         },
         "prism": {
             "css": [
@@ -72,10 +72,10 @@
             ]
         },
         "github": {
-            "url": "https://github.com/liyingkun/gitbook-use"
+            "url": "https://github.com/liyingkun1237/AIMSHelpBook.git"
         },
         "github-buttons": {
-            "repo": "liyingkun/gitbook-use",
+            "repo": "liyingkun1237/AIMSHelpBook",
             "types": [
                 "star"
             ],
@@ -111,7 +111,7 @@
            ]
        },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © liyingkun.com 2017",
+            "copyright": "Copyright © AIMS.ccxcredit.com 2017",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -119,9 +119,9 @@
             "token": "ff100361cdce95dd4c8fb96b4009f7bc"
         },
         "donate": {
-            "wechat": "https://liyingkun.com/resource/weixin.png",
-            "alipay": "https://liyingkun.com/resource/alipay.png",
-            "title": "",
+            "wechat": "./wechat-pay.jpg",
+            "alipay": "./zhb-pay.jpg",
+            "title": "亲 创作小哥很辛苦的 给点小费喝咖啡呗",
             "button": "赏",
             "alipayText": "支付宝打赏",
             "wechatText": "微信打赏"
@@ -131,11 +131,11 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/liyingkun/gitbook-use/edit/master",
+            "base": "https://github.com/liyingkun1237/AIMSHelpBook",
             "label": "Edit This Page"
         },
         "sitemap-general": {
-            "prefix": "http://gitbook.liyingkun.com"
+            "prefix": "https://github.com/liyingkun1237"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
@@ -159,24 +159,20 @@
         "versions": {
             "options": [
                 {
-                    "value": "http://gitbook.liyingkun.com",
-                    "text": "v3.2.3"
-                },
-                {
-                    "value": "http://gitbook.liyingkun.com/v2/",
-                    "text": "v2.6.4"
+                    "value": "https://github.com/liyingkun1237",
+                    "text": "v1.0.0"
                 }
             ]
         },
 
         "rss": {
-            "title": "GitBook 使用教程",
-            "description": "记录 GitBook 的配置和一些插件的使用",
-            "author": "Jikai Zhang",
-            "feed_url": "http://gitbook.liyingkun.com/rss",
-            "site_url": "http://gitbook.liyingkun.com/",
-            "managingEditor": "me@liyingkun.com",
-            "webMaster": "me@liyingkun.com",
+            "title": "AIMS 智能建模平台帮助文档",
+            "description": "中诚信征信AIMS智能建模平台帮助文档",
+            "author": "liyignkun",
+            "feed_url": "https://github.com/liyingkun1237/AIMSHelpBook/rss",
+            "site_url": "https://github.com/liyingkun1237/AIMSHelpBook",
+            "managingEditor": "liyingkun@ccx.cn",
+            "webMaster": "liyingkun@ccx.cn",
             "categories": [
                 "gitbook"
             ]
