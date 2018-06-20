@@ -111,7 +111,7 @@
            ]
        },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © AIMS.ccxcredit.com 2017",
+            "copyright": "Copyright © AIMS.ccxcredit.com 2018",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -119,19 +119,17 @@
             "token": "ff100361cdce95dd4c8fb96b4009f7bc"
         },
         "donate": {
-            "wechat": "./wechat-pay.jpg",
-            "alipay": "./zhb-pay.jpg",
-            "title": "亲 创作小哥很辛苦的 给点小费喝咖啡呗",
-            "button": "赏",
-            "alipayText": "支付宝打赏",
-            "wechatText": "微信打赏"
+            "wechat": "/images/AIMS-wechat.jpg",
+            "title": "",
+            "button": "关注",
+            "wechatText": "中诚信征信"
         },
         "simple-page-toc": {
             "maxDepth": 3,
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/liyingkun1237/AIMSHelpBook",
+            "base": "https://github.com/liyingkun1237/AIMSHelpBook/blob/master",
             "label": "Edit This Page"
         },
         "sitemap-general": {
